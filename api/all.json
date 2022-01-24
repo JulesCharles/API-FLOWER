@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Bonsaî",
+        "image": "https://images.pexels.com/photos/4050790/pexels-photo-4050790.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 2,
+        "name": "Cactus",
+        "image": "https://images.pexels.com/photos/1087149/pexels-photo-1087149.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 3,
+        "name": "Eucalyptus",
+        "image": "https://images.pexels.com/photos/970089/pexels-photo-970089.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 4,
+        "name": "Pachira",
+        "image": "https://fr.depositphotos.com/151365006/stock-photo-pachira-aquatica-on-white.html"
+    },
+    {
+        "id": 5,
+        "name": "Ficus",
+        "image": "https://images.pexels.com/photos/6044736/pexels-photo-6044736.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 6,
+        "name": "Jasmin",
+        "image": "https://images.pexels.com/photos/5939117/pexels-photo-5939117.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 7,
+        "name": "Tulipe",
+        "image": "https://images.pexels.com/photos/2879815/pexels-photo-2879815.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": 8,
+        "name": "Lierre grimpant",
+        "image": "https://images.pexels.com/photos/7663986/pexels-photo-7663986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+]
